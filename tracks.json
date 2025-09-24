@@ -11,7 +11,7 @@
     "id": "2",
     "title": "Espresso",
     "artist": "Sabrina Carpenter",
-    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Espresso.mp3": "",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Espresso.mp3",
+    "artworkURL": "",
     "lyrics": ""
-  }
 ]

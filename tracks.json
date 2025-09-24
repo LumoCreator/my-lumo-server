@@ -14,5 +14,12 @@
     "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Espresso.mp3",
     "artworkURL": "",
     "lyrics": ""
-  }
+},
+{
+    "id": "3",
+    "title": "Break My Heart",
+    "artist": "Dua Lipa",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Break%20My%20Heart.mp3",
+    "artworkURL": "",
+    "lyrics": ""
 ]

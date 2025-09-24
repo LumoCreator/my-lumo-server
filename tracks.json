@@ -1,13 +1,5 @@
 [
   {
-    "id": "2",
-    "title": "Test Song",
-    "artist": "Apple Inc.",
-    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Test%20Music.mp3",
-    "artworkURL": "https://raw.githubusercontent.com/<username>/my-music-server/main/artwork/cover1.jpg",
-    "lyrics": "Text is not avilable"
-  },
-  {
     "id": "1",
     "title": "Mister Crabs",
     "artist": "SpongeBob",

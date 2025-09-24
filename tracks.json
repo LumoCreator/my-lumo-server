@@ -11,7 +11,7 @@
     "id": "2",
     "title": "Mister Crabs",
     "artist": "SpongeBob",
-    "audioURL": "",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/MisterCrabs.mp3",
     "artworkURL": "",
     "lyrics": ""
   }

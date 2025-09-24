@@ -22,5 +22,13 @@
     "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Break%20My%20Heart.mp3",
     "artworkURL": "",
     "lyrics": ""
+},
+{
+    "id": "4",
+    "title": "Jingle Bells Rock",
+    "artist": "Bobby Helms",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Jingle%20Bells%20Rock.mp3",
+    "artworkURL": "",
+    "lyrics": ""
 }
 ]

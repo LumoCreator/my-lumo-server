@@ -1,17 +1,9 @@
 [
   {
-    "id": "1",
-    "title": "Mister Crabs",
-    "artist": "SpongeBob",
-    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/MisterCrabs%202.mp3",
-    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0294.jpeg",
-    "lyrics": ""
-  },
-  {
-    "id": "2",
-    "title": "Apple Test",
-    "artist": "Nickelodeon",
-    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Test%20Music.mp3",
+    "id": "",
+    "title": "",
+    "artist": "",
+    "audioURL": "",
     "artworkURL": "",
     "lyrics": ""
   }

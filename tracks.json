@@ -38,5 +38,13 @@
     "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Golden.mp3",
     "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0299.jpeg",
     "lyrics": ""
+},  
+{
+    "id": "6",
+    "title": "Cheap Thrills",
+    "artist": "Sia",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Cheap%20Thrills.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0311.jpeg",
+    "lyrics": ""
 }
 ]

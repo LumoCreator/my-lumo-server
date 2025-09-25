@@ -1,26 +1,66 @@
 [
   {
     "id": "1",
-    "title": "Черепашки ниндзя",
-    "artist": "Сплинтер",
-    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Turtles%202.mp3",
-    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0318.jpeg",
+    "title": "Матушка",
+    "artist": "Татьяна Куртукова",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Матушка.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0297.jpeg",
     "lyrics": ""
 },
 {
     "id": "2",
-    "title": "",
-    "artist": "",
-    "audioURL": "",
-    "artworkURL": "",
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Espresso.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0296.jpeg",
     "lyrics": ""
 },
 {
     "id": "3",
-    "title": "",
-    "artist": "",
-    "audioURL": "",
-    "artworkURL": "",
+    "title": "Break My Heart",
+    "artist": "Dua Lipa",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Break%20My%20Heart.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0298.jpeg",
     "lyrics": ""
+},
+{
+    "id": "4",
+    "title": "Jingle Bells Rock",
+    "artist": "Bobby Helms",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Jingle%20Bells%20Rock.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0295.jpeg",
+    "lyrics": ""
+},
+{
+    "id": "5",
+    "title": "Golden",
+    "artist": "HUNTR/X",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Golden.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0299.jpeg",
+    "lyrics": ""
+},  
+{
+    "id": "6",
+    "title": "Cheap Thrills",
+    "artist": "Sia",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Cheap%20Thrills.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0311.jpeg",
+    "lyrics": ""
+},
+{
+    "id": "7",
+    "title": "Takedown",
+    "artist": "HUNTR/X",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Takedown.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0299.jpeg",
+    "lyrics": ""
+},
+{
+    "id": "8",
+    "title": "Everything At Once",
+    "artist": "Lenka",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Everything-at-Once.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0312.jpeg",
+    "lyrics": "Text is not aviliable"
 }
 ]

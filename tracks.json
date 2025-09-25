@@ -54,5 +54,13 @@
     "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Takedown.mp3",
     "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0299.jpeg",
     "lyrics": ""
+},
+{
+    "id": "8",
+    "title": "Everything At Once",
+    "artist": "Lenka",
+    "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Everything%20at%20Once.mp3",
+    "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0312.jpeg",
+    "lyrics": "Text is not aviliable"
 }
 ]

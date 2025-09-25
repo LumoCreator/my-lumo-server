@@ -31,11 +31,12 @@
     "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0295.jpeg",
     "lyrics": ""
 },
+{
     "id": "5",
     "title": "Golden",
     "artist": "HUNTR/X",
     "audioURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/audio/Golden.mp3",
     "artworkURL": "https://raw.githubusercontent.com/LumoCreator/my-lumo-server/refs/heads/main/artwork/IMG_0299.jpeg",
     "lyrics": ""
-},
+}
 ]
